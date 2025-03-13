@@ -1,16 +1,22 @@
 # My Resume
 
 ### Summary
-Nghiên Cứu Khoa Học /br
-Đại Học Sài Gòn , TP Hồ Chí Minh /br
-[2025-4] PPNCKH Class /br
-Giản Viên: Đỗ Như Tài /br
-Học Sinh: Ngô Khánh Tâm /br
-Nội Dung: Nhập Môn Nghiên Cứu Khoa Học /br
+Nghiên Cứu Khoa Học
+ 
+Đại Học Sài Gòn , TP Hồ Chí Minh
+ 
+[2025-4] PPNCKH Class 
 
-Tham khảo /br
+Giản Viên: Đỗ Như Tài 
+
+Học Sinh: Ngô Khánh Tâm 
+
+Nội Dung: Nhập Môn Nghiên Cứu Khoa Học 
+
+Tham khảo 
 My resume I made using plain HTML5 & CSS.
 https://rjbasitali.github.io/
- br/
-Thông Tin Cá Nhân /br 
+
+Thông Tin Cá Nhân 
+
 Ngô Khánh Tâm 
