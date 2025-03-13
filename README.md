@@ -1,6 +1,5 @@
 # PPNCKH
 
-### Summary
 Nghiên Cứu Khoa Học
  
 Đại Học Sài Gòn , TP Hồ Chí Minh
